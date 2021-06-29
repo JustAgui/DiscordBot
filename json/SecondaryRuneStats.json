@@ -1,0 +1,38 @@
+[
+  {
+    "Stat": "atk",
+    "BaseValue": 0.9
+  },
+  {
+    "Stat": "hp",
+    "BaseValue": 0.9
+  },
+  {
+    "Stat": "atkrange",
+    "BaseValue": 0.6
+  },
+  {
+    "Stat": "bonusgold",
+    "BaseValue": 1.5
+  },
+  {
+    "Stat": "critdmg",
+    "BaseValue": 0.75
+  },
+  {
+    "Stat": "def",
+    "BaseValue": 0.9
+  },
+  {
+    "Stat": "atk",
+    "BaseValue": 0.9
+  },
+  {
+    "Stat": "movespeed",
+    "BaseValue": 0.3
+  },
+  {
+    "Stat": "ultatk",
+    "BaseValue": 1.5
+  }
+]

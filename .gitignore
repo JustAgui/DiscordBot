@@ -1,0 +1,11 @@
+.idea
+/node_modules/
+/Test stuff/
+credentials.json
+.env
+key.json
+
+## Database
+Database/sqlite_databases/database.sqlite
+Database/sqlite_databases/raid.sqlite
+userheroes.sqlite

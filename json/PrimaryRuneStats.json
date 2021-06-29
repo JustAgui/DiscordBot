@@ -1,0 +1,54 @@
+[
+  {
+    "Stat": "atk",
+    "BaseValue": 6.0
+  },
+  {
+    "Stat": "aoe",
+    "BaseValue": 3.0
+  },
+  {
+    "Stat": "as",
+    "BaseValue": 1.0
+  },
+  {
+    "Stat": "bonusgold",
+    "BaseValue": 10.0
+  },
+  {
+    "Stat": "critdmg",
+    "BaseValue": 5.0
+  },
+  {
+    "Stat": "def",
+    "BaseValue": 6.0
+  },
+  {
+    "Stat": "hp",
+    "BaseValue": 6.0
+  },
+  {
+    "Stat": "ultatk",
+    "BaseValue": 10.0
+  },
+  {
+    "Stat": "freezetime",
+    "BaseValue": 2.0
+  },
+  {
+    "Stat": "stuntime",
+    "BaseValue": 2.0
+  },
+  {
+    "Stat": "burntime",
+    "BaseValue": 2.0
+  },
+  {
+    "Stat": "poisontime",
+    "BaseValue": 2.0
+  },
+  {
+    "Stat": "ultreload",
+    "BaseValue": 2.0
+  }
+]
